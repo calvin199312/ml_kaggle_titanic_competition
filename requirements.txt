@@ -1,0 +1,10 @@
+keras
+tensorflow
+jupyter
+html5lib
+pandas
+pylint
+autopep8
+matplotlib
+pillow
+opencv-python
